@@ -1,3 +1,5 @@
+## 在线练习 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usstroot/pydata-notebook/master)
+
 # 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）中文翻译笔记
 
 这本书的英文版github仓库：[pydata-book](https://github.com/wesm/pydata-book)
